@@ -1,16 +1,27 @@
-Olá, alunos!
+Olá, Alunos!
 
-A OAT de desenvolvimento mobile será o desenvolvimento de um APP com Flutter.
-Aplicativo: Criar um aplicativo em Flutter/Dart com as seguintes características: 
-1 tela (10 pontos); 
-2 telas, com navegação entre elas (20 pontos); 
-2 telas e consumindo dados de alguma API (25 pontos);
-Apis gratuitas para utilização:
-https://rapidapi.com/
-https://apipheny.io/free-api/
-Obs: Individual ou em dupla
+Conforme informado em sala, nossa VA III será uma atividade prática. 
 
+A hamburgueria "Mobile Burguers" precisa de um sistema para manter o cardápio dos seus produtos, pois os clientes começaram a reclamar de não ter um cardápio online para acessarem pelo celular. Portanto, contratou vocês para criar um aplicativo mobile para exibir o cardápio da hamburgueria. Lembrando que você é responsável apenas por desenvolver o APP Mobile. Outras empresas ficarão encarregadas de criar a API e o site.
 
+Objetivo: 
+- Criar um aplicativo mobile com Flutter/Dart para exibir o cardápio do restaurante Mobile Burguers. 
+
+Os itens do cardápio deverão ter as seguintes informações:
+Imagem
+Nome
+Descrição (ingredientes)
+Preço
+Um cardápio é composto por uma lista de itens
+
+Exemplo de tela em anexo.
+Os itens do cardápio deverão estar armazenados em um arquivo .json (em formato json) dentro de alguma pasta no projeto.
+
+Exemplos de como ler JSON em flutter:
+- https://www.macoratti.net/19/08/flut_pjson1.htm
+- https://medium.com/flutter-comunidade-br/descomplicando-o-json-em-flutter-47e12b87753b
+
+____________________________________________________________________
 
 Trabalho feito por:
 
