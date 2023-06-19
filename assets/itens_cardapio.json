@@ -1,0 +1,58 @@
+[
+    {
+      "imageUrl": "assets/images/burger1.jpg",
+      "name": "Mobile Burger Clássico",
+      "description": "Pão, hambúrguer, queijo cheddar, alface, tomate, cebola, maionese",
+      "preco": 35.90
+    },
+    {
+      "imageUrl": "assets/images/burger2.jpg",
+      "name": "Mobile Burger Vegetariano",
+      "description": "Pão integral, hambúrguer vegetariano, queijo suíço, alface, tomate, cebola roxa, molho especial",
+      "preco": 39.90
+    },
+    {
+      "imageUrl": "assets/images/burger3.jpg",
+      "name": "Mobile Burger Duplo",
+      "description": "Dois hambúrgueres, queijo cheddar, cebola caramelizada, bacon, maionese especial",
+      "preco": 45.90
+    },
+    {
+      "imageUrl": "assets/images/burger4.jpg",
+      "name": "Mobile Burger Frango",
+      "description": "Pão, frango grelhado, alface, tomate, queijo prato, maionese de ervas",
+      "preco": 29.90
+    },
+    {
+       "imageUrl": "assets/images/burger5.jpg",
+      "name": "Mobile Burger Australiano",
+      "description": "Pão, blend carne, alface, tomate, queijo prato, maionese de ervas",
+      "preco": 37.90
+    },
+    {
+      "imageUrl": "assets/images/refri1.jpg",
+      "name": "Coca-Cola Lata",
+      "description": "Lata 350ml",
+      "preco": 7.90
+    },
+    {
+      "imageUrl": "assets/images/refri2.jpg",
+      "description": "Lata 350ml",
+      "name": "Pepsi Lata",
+      "preco": 7.90
+    },
+    {
+      "imageUrl": "assets/images/refri3.jpg",
+      "name": "Guarana Lata",
+      "description": "Lata 350ml",
+      "preco": 7.90
+    },
+    {
+      "imageUrl": "assets/images/refri4.jpg",
+      "name": "Mineiro Lata",
+      "description": "Lata 350ml",
+      "preco": 7.90
+    }
+
+  ]
+  
